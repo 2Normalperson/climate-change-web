@@ -1,0 +1,92 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    color: white;
+    padding: 128px 16px;
+    background-image:url('https://media.tenor.com/bSy280kk_osAAAAd/power-plant-time-lapse.gif'); background-size:cover;
+}
+
+.heading {
+  padding-left:10px;
+  padding-right:10px;
+  font-family: 'Hind Siliguri', sans-serif;
+  margin: 10px;
+}
+
+body {
+  background-color: black;
+}
+
+
+.section {
+  padding-left: 100px;
+}
+
+.section1 {
+  background: #2222d3;
+  padding-left:10px;
+  padding-right:10px;
+  margin: 20px;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  font-family: 'Hind Siliguri', sans-serif;
+
+}
+
+.section2 {
+  background:#2222d3;
+  padding-left:10px;
+  padding-right:10px;
+  margin: 20px;
+  color: white;
+  font-family: 'Hind Siliguri', sans-serif;
+
+}
+
+.section3 {
+  background: #2222d3;
+  padding-left:10px;
+  padding-right:10px;
+  margin: 20px;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  font-family: 'Hind Siliguri', sans-serif;
+
+}
+
+.image1 {
+  margin: 20px;
+}
+
+.video {
+  margin:20px;
+}
+
+.author {
+  color: #2222d3;
+}
+
+.section4 {
+  background: #2222d3;
+  padding-left:10px;
+  padding-right:10px;
+  margin: 20px;
+  color: white;
+  font-family: 'Hind Siliguri', sans-serif;
+
+}
+
+.images {
+  display: flex;
+  justify-content: space-evenly;
+  margin:10px;
+}
+
+ .hoverimg:hover {
+  border-style: solid;
+  border-color: #0404b9;
+  border-width: 10px;
+  margin: -10px;
+ }
